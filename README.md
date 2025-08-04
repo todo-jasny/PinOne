@@ -21,7 +21,7 @@ PinOne is a compact, minimalist, and open-source family of microcontroller board
 └── README.md # You are here
 
 
-## 🚧 Status
+## Status
 PinOne is actively being developed. Contributions, feedback, and forks are welcome — this is a personal learning and community-building project.
 
 ## Why PinOne?
