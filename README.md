@@ -14,11 +14,10 @@ PinOne is a compact, minimalist, and open-source family of microcontroller board
   - Based on the ATtiny85 microcontroller.
 
 ## Repository Structure
-/
-├── pcb/ # PCB designs for each version (KiCad files, etc.)
-├── firmware/ # Basic example code (e.g., LED blink, I/O test)
-├── LICENSE # Open-source license
-└── README.md # You are here
+- `pcb/` – Board designs, schematics, and Gerber files (V1.0–V2.0).
+- `firmware/` – Example code for PinOne (e.g., LED blink, I/O tests). (to be added)
+- `LICENSE` – Open-source license (e.g., MIT or CERN-OHL).
+- `README.md` – This overview file.
 
 
 ## Status
