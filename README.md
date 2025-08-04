@@ -16,7 +16,6 @@ PinOne is a compact, minimalist, and open-source family of microcontroller board
 ## Repository Structure
 - `pcb/` – Board designs, schematics, and Gerber files (V1.0–V2.0).
 - `firmware/` – Example code for PinOne (e.g., LED blink, I/O tests). (to be added)
-- `LICENSE` – Open-source license (e.g., MIT or CERN-OHL).
 - `README.md` – This overview file.
 
 
@@ -29,6 +28,3 @@ As a student-driven idea, PinOne blends learning and real-world prototyping. The
 ## Learn More
 Project by Anthony Albright.  
 See more updates at AlbriByte.surge.sh and here on GitHub.
-
----
-Licensed under MIT License.
