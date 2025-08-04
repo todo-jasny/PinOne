@@ -25,7 +25,3 @@ Each version folder includes:
 
 ## Manufacturing
 Boards were designed for **JLCPCB** but are compatible with most standard PCB services. Dimensions and design rules are noted per version.
-
----
-Licensed under [MIT or CERN-OHL].
-
