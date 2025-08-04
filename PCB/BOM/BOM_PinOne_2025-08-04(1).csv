@@ -1,0 +1,4 @@
+﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
+"1"	"R0603"	"R3"	"R0603"	"1"	"RC0603JR-07200RL"	"YAGEO(国巨)"	"LCSC"	"C114686"	"0.001"
+"2"	"SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"	"U1"	"SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"	"1"	"ATTINY85-20SH"	"MICROCHIP(美国微芯)"	"LCSC"	"C1339831"	"2.725"
+"3"	"USB-C-16P-S"	"U2"	"USB-C-16P-S"	"1"	"USB-C-16P-S"	"null"	"LCSC"	"C9900000831"	""
